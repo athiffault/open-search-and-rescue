@@ -2,7 +2,7 @@ OpenSAR
 =======
 
 Open Search and Rescue is an application to help Search & Rescue teams
-organize, deploy, and operate.
+organize, deploy, and operate. It was developed by Code for Tulsa at the National Day of Civic Hacking.
 
 Using the development environment
 ---------------------------------
